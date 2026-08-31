@@ -8,14 +8,14 @@ const projects = [
     title: "Mini KBC Quiz Game",
     category: "Console-based Quiz",
     tools: "Python, Logic, User Interaction",
-    image: "/images/projects_kbc.png",
+    image: "./images/projects_kbc.png",
     link: "https://github.com/Paradoxai77/How-much-Money-you-will-take-code-using-Python.git",
   },
   {
     title: "Personal Portfolio",
     category: "Premium Cyber-themed Portfolio",
     tools: "HTML, CSS, Vanilla JS, Dark Mode, Terminal Effects",
-    image: "/images/projects_portfolio.png",
+    image: "./images/projects_portfolio.png",
     link: "https://github.com/Paradoxai77",
   },
 ];
