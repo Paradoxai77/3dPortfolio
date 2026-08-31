@@ -6,11 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          I'm Pratik Yogesh Nerpagar (Paradoxai77). I am a computer engineering student,
+          technical innovator, and full-stack developer. I hold a registered patent
+          recognized by the Government of India and love building practical, impactful
+          tech solutions. Currently, I am working as a Full Stack Web Developer at Ateion
+          and actively researching in cybersecurity, specifically incident response and SOC operations.
         </p>
       </div>
     </div>

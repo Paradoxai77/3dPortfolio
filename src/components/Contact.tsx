@@ -11,27 +11,26 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/akashrmalhotra/"
+                href="https://www.linkedin.com/in/pratik-nerpagar-1b6156397"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                LinkedIn — akashrmalhotra
+                LinkedIn — pratik-nerpagar
               </a>
             </p>
             <h4>Education</h4>
             <p>
-              PGPWE (MBA), Indian Institute of Management, Lucknow — 2021–2023
+              B.Tech in Computer Engineering, VPKBIET, Baramati, Pune — 2025-2029
             </p>
             <p>
-              B.Tech Computer Science, Manav Rachna Educational Institutions —
-              2009–2013
+              Higher Secondary Certificate (HSC) — Completed 2025
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/akashrmalhotra"
+              href="https://github.com/Paradoxai77"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -40,7 +39,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/akashrmalhotra/"
+              href="https://www.linkedin.com/in/pratik-nerpagar-1b6156397"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -49,7 +48,7 @@ const Contact = () => {
               LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="https://www.youtube.com/@Leftbraincoder"
+              href="https://www.youtube.com/@Paradoxai77"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -58,7 +57,7 @@ const Contact = () => {
               YouTube <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/leftbraincoder/"
+              href="https://www.instagram.com/pratik_nerpagar_77/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -69,7 +68,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Akash Malhotra</span>
+              Designed and Developed <br /> by <span>Pratik Nerpagar</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

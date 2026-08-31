@@ -5,32 +5,18 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
-    image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    title: "Mini KBC Quiz Game",
+    category: "Console-based Quiz",
+    tools: "Python, Logic, User Interaction",
+    image: "/images/projects_kbc.png",
+    link: "https://github.com/Paradoxai77/How-much-Money-you-will-take-code-using-Python.git",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
-    image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
-  },
-  {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
-    image: "/images/broki.png",
-    link: "https://broki.in",
-  },
-  {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
-    image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    title: "Personal Portfolio",
+    category: "Premium Cyber-themed Portfolio",
+    tools: "HTML, CSS, Vanilla JS, Dark Mode, Terminal Effects",
+    image: "/images/projects_portfolio.png",
+    link: "https://github.com/Paradoxai77",
   },
 ];
 
