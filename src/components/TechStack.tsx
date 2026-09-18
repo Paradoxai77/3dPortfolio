@@ -178,9 +178,10 @@ const TechStack = () => {
 
   return (
     <div className="techstack">
-      <h2>
+      <h2 className="techstack-heading">TECH STACKS</h2>
+      <p className="techstack-bg-text">
         React • Next.js • Node.js • Express.js • MongoDB • MySQL • TypeScript • JavaScript • Python • C • C++ • HTML • CSS • Java • Data Structure • PHP • Django • Flask
-      </h2>
+      </p>
 
       <Canvas
         shadows
