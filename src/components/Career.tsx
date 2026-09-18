@@ -15,7 +15,7 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer Intern</h4>
+                <h4>Full Stack Engineer</h4>
                 <h5>Innovation Hacks</h5>
               </div>
               <h3>AUG 2026 - NOW</h3>
@@ -27,20 +27,32 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Web Dev Intern</h4>
+                <h4>Full Stack Web Developer</h4>
                 <h5>Ateion</h5>
               </div>
               <h3>JUN 2026 - NOW</h3>
             </div>
             <p>
-              Developed web applications, integrated back-end services, and conducted comprehensive testing and debugging.
+              Developed and launched a comprehensive website, managing frontend and backend tasks to enhance user experience and ensure successful large-scale deployment.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Member Technical</h4>
+                <h5>Zone Of Engineering Innovators</h5>
+              </div>
+              <h3>JAN 2026 - NOW</h3>
+            </div>
+            <p>
+              Contributing to technical initiatives and collaborative engineering projects.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Technical Member</h4>
-                <h5>Club ZEN & CESA</h5>
+                <h5>CESA VPKBIET</h5>
               </div>
               <h3>SEP 2025 - NOW</h3>
             </div>
@@ -51,25 +63,25 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Team Lead Researcher</h4>
-                <h5>RCP R&D Team</h5>
+                <h4>R&amp;D Intern</h4>
+                <h5>REDCYBERFOX LLP</h5>
               </div>
-              <h3>APR 2026 - JUL 2026</h3>
+              <h3>MAY 2026 - JUN 2026</h3>
             </div>
             <p>
-              Led investigations into zero-day exploits, integrated SIEM/SOAR platforms, and established standardized SOC playbooks.
+              Focused on cutting-edge research, product development, and cybersecurity innovation at the intersection of AI, ML, and full-stack development.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Campus Ambassador</h4>
-                <h5>Jyesta & Teachnook</h5>
+                <h5>Acmegrade &amp; Jyesta</h5>
               </div>
-              <h3>JAN 2026 - MAR 2026</h3>
+              <h3>JAN 2026 - JUN 2026</h3>
             </div>
             <p>
-              Engaged students through informative events and increased engagement with technology platforms via targeted outreach.
+              Engaged students through informative events and fostered innovation ecosystems on campus.
             </p>
           </div>
         </div>
