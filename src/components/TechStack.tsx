@@ -178,7 +178,9 @@ const TechStack = () => {
 
   return (
     <div className="techstack">
-      <h2> My Techstack</h2>
+      <h2>
+        React • Next.js • Node.js • Express.js • MongoDB • MySQL • TypeScript • JavaScript • Python • C • C++ • HTML • CSS • Java • Data Structure • PHP • Django • Flask
+      </h2>
 
       <Canvas
         shadows
