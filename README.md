@@ -5,6 +5,8 @@ This repository contains the source code for a personal 3D portfolio built with 
 Hi! I'm **Pratik Yogesh Nerpagar**, a Full Stack Web Developer and Computer Engineering student at Vidya Pratishthan's College of Engineering (expected 2029). I specialize in designing and deploying user-centric web solutions.
 
 ### Connect with me:
+[Live Deployment](https://paradoxai77.github.io/3dPortfolio/)
+
 - **GitHub**: [Paradoxai77](https://github.com/Paradoxai77)
 - **LinkedIn**: [Pratik Nerpagar](https://www.linkedin.com/in/pratik-nerpagar-1b6156397)
 - **YouTube**: [@Paradoxai77](https://www.youtube.com/@Paradoxai77)
