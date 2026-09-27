@@ -18,6 +18,13 @@ const projects = [
     image: "./images/projects_portfolio.png",
     link: "https://github.com/Paradoxai77",
   },
+  {
+    title: "Ateion",
+    category: "EdTech Ecosystem",
+    tools: "AI, Interactive Learning, EdTech",
+    image: "./images/projects_ateion.png",
+    link: "https://ateion.com",
+  },
 ];
 
 const Work = () => {
