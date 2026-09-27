@@ -16,7 +16,7 @@ const projects = [
     category: "Premium Cyber-themed Portfolio",
     tools: "HTML, CSS, Vanilla JS, Dark Mode, Terminal Effects",
     image: "./images/projects_portfolio.png",
-    link: "https://github.com/Paradoxai77",
+    link: "https://paradoxai77.github.io/3dPortfolio/",
   },
   {
     title: "Ateion",
