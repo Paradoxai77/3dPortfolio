@@ -25,6 +25,13 @@ const projects = [
     image: "./images/projects_ateion.png",
     link: "https://ateion.com",
   },
+  {
+    title: "Zone of Engineering Innovators",
+    category: "Tech Community Platform",
+    tools: "Responsive Web Design, Project Coordination, Modern UI/UX",
+    image: "./images/projects_zen.png",
+    link: "https://zoneofengineeringinnovators.com/",
+  },
 ];
 
 const Work = () => {
