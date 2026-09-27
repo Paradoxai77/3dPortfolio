@@ -10,7 +10,7 @@ Hi! I'm **Pratik Yogesh Nerpagar**, a Full Stack Web Developer and Computer Engi
 - **YouTube**: [@Paradoxai77](https://www.youtube.com/@Paradoxai77)
 - **Instagram**: [@pratik_nerpagar_77](https://www.instagram.com/pratik_nerpagar_77/)
 
-![Portfolio Preview](public/images/projects_portfolio.png)
+![Portfolio Preview](public/images/preview.png)
 
 ## Table of Contents
 
