@@ -1,10 +1,16 @@
-# 3D Portfolio Website
+# 3D Portfolio Website - Pratik Yogesh Nerpagar
 
 This repository contains the source code for a personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
 
-Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.app/)
+Hi! I'm **Pratik Yogesh Nerpagar**, a Full Stack Web Developer and Computer Engineering student at Vidya Pratishthan's College of Engineering (expected 2029). I specialize in designing and deploying user-centric web solutions.
 
-![Portfolio Preview](public/images/preview1.png)
+### Connect with me:
+- **GitHub**: [Paradoxai77](https://github.com/Paradoxai77)
+- **LinkedIn**: [Pratik Nerpagar](https://www.linkedin.com/in/pratik-nerpagar-1b6156397)
+- **YouTube**: [@Paradoxai77](https://www.youtube.com/@Paradoxai77)
+- **Instagram**: [@pratik_nerpagar_77](https://www.instagram.com/pratik_nerpagar_77/)
+
+![Portfolio Preview](public/images/projects_portfolio.png)
 
 ## Table of Contents
 
@@ -13,10 +19,6 @@ Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Available Scripts](#available-scripts)
-- [GSAP License Note](#gsap-license-note)
-- [Customization Guide](#customization-guide)
-- [Troubleshooting](#troubleshooting)
-- [Deployment](#deployment)
 - [License](#license)
 
 ## Features
@@ -37,19 +39,17 @@ Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.
 
 ### Animation and 3D
 
-- GSAP + `@gsap/react`
+- GSAP
 - Three.js
 - `@react-three/fiber`
 - `@react-three/drei`
 - `@react-three/postprocessing`
-- `@react-three/cannon`
 - `@react-three/rapier`
 
 ### Supporting Libraries
 
 - `react-icons`
 - `react-fast-marquee`
-- `@vercel/analytics`
 
 ## Project Structure
 
@@ -90,8 +90,8 @@ Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
-   cd 3d-portfolio
+   git clone https://github.com/Paradoxai77/3dPortfolio.git
+   cd 3dPortfolio
    ```
 
 2. Install dependencies:
@@ -121,55 +121,6 @@ Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.
 
 - `npm run lint`  
   Runs ESLint checks across the project.
-
-## GSAP License Note
-
-This project uses the standard `gsap` package, including bonus plugins now available in the core package.
-
-- Install dependencies with `npm install`.
-- If migrating from older setups, remove `gsap-trial` from your project.
-
-Read official installation guidance here: [GSAP Installation Docs](https://gsap.com/docs/v3/Installation/)
-
-## Customization Guide
-
-You can adapt this portfolio to your own profile by updating the following areas:
-
-- **Content sections**: Edit files in `src/components/` such as `About.tsx`, `Career.tsx`, `WhatIDo.tsx`, and `Work.tsx`.
-- **Data source**: Update static values in files under `src/data/`.
-- **Styling**: Modify component styles in `src/components/styles/` and global styles in `src/index.css` / `src/App.css`.
-- **3D scene behavior**: Adjust scene logic in `src/components/Character/` and related utilities.
-- **Animations**: Tweak GSAP utilities under `src/components/utils/`.
-
-## Troubleshooting
-
-- **Blank screen in development**  
-  Check browser console for module import errors and verify all dependencies are installed.
-
-- **3D performance issues on low-end devices**  
-  Reduce scene complexity and post-processing effects in the character/scene utilities.
-
-- **GSAP plugin errors**  
-  Ensure you have the correct plugin package and license configuration for your target environment.
-
-- **TypeScript build failures**  
-  Run `npm run build` and address reported type errors before deploying.
-
-## Deployment
-
-1. Create a production build:
-
-   ```bash
-   npm run build
-   ```
-
-2. Validate locally:
-
-   ```bash
-   npm run preview
-   ```
-
-3. Deploy the generated `dist/` folder to your hosting provider (for example Vercel, Netlify, or Cloudflare Pages).
 
 ## License
 
